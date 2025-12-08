@@ -276,7 +276,7 @@
 
 <script>
     // URL de tu Google Apps Script
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbz1moelb5M4-2j6tKIH2FPpIQMgLp15zp6_6xJKOJ6oOYIFi7M6qwEhX5qqWF2R-jUCVg/exec';
+    const scriptURL = ['https://script.google.com/macros/s/AKfycbz1moelb5M4-2j6tKIH2FPpIQMgLp15zp6_6xJKOJ6oOYIFi7M6qwEhX5qqWF2R-jUCVg/exec'](https://script.google.com/macros/s/AKfycbz1moelb5M4-2j6tKIH2FPpIQMgLp15zp6_6xJKOJ6oOYIFi7M6qwEhX5qqWF2R-jUCVg/exec);
     
     // Obtenemos el formulario por su ID
     const form = document.getElementById('padelForm');
