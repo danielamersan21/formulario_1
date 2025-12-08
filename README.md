@@ -276,7 +276,7 @@
 
 <script>
     // URL de tu Google Apps Script
-    const scriptURL ='https://script.google.com/macros/s/AKfycbyTfkuW9JCse0UzHfL5TNYq7YCfTgJKNbBHOWk2KV5ERrNy4tbX1XyabYj1ABX2QZ7-/exec';
+    const scriptURL ='https://script.google.com/macros/s/AKfycbyhww3khgRlSxUDFhwOvEYEC2ADJW8O9WkFbbBu4lpTxRmuVlEk3T_OS3Lh9pjtE0FQMQ/exec';
     
     // Obtenemos el formulario por su ID
     const form = document.getElementById('padelForm');
@@ -316,5 +316,3 @@
 <footer>
     <p style="background-color:floralwhite">©️ 2025 AURA. Todos los derechos reservados.</p>
 </footer>
-</body>
-</html>
