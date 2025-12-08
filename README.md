@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -276,7 +275,7 @@
 
 <script>
     // URL de tu Google Apps Script
-    const scriptURL ='https://script.google.com/macros/s/AKfycbyhww3khgRlSxUDFhwOvEYEC2ADJW8O9WkFbbBu4lpTxRmuVlEk3T_OS3Lh9pjtE0FQMQ/exec';
+    const scriptURL ='https://script.google.com/macros/s/AKfycbzYBqnzWVd3qOSSDVjo-U5zVonyVVkT1KalrhYnvwKYYjtGNtKmB613oSDvXNVePQJcRg/exec';
     
     // Obtenemos el formulario por su ID
     const form = document.getElementById('padelForm');
